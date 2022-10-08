@@ -6,5 +6,4 @@ function reverseWords(str) {
   });
   return newWords.join(' ');
 }
-
 reverseWords('The quick brown fox jumps over the lazy dog.');
